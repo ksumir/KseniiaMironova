@@ -1,5 +1,5 @@
 # Hello! I'm Kseniia Mironova :wave:
-### I'm Data analytic
+### I'm Data analytics
 _smth about me_
 
 My contacts:
