@@ -7,9 +7,9 @@ _I have extensive experience in business analisys and fashion brand management. 
 </p>
 
 ### My contacts:
-*	:calling: _[telegram]()_
+*	:calling: _[telegram](https://t.me/ksumiro)_
 *	:computer: _[LinkedIn]()_
-*	:envelope_with_arrow: _[kvmironova846@gmail.com](https://mail.google.com/mail/u/0/#inbox)_
+*	:envelope_with_arrow: _[kvmironova846@gmail.com](https://mail.google.com/mail)_
 ___
 ### Skills :hammer_and_wrench:
 * __DA skills:__ `Python`, `SQL`, `Tablea`, `Git`, `Redash`, `ClickHouse`, `Airflow`, `Jupyter Notebook`, `A/B tests`, `Math statistics`
