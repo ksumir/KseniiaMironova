@@ -12,12 +12,19 @@ _I have extensive experience in business analysis and fashion brand management. 
 *	:envelope_with_arrow: _[kvmironova846@gmail.com](https://mail.google.com/mail)_
 ___
 ### Skills :hammer_and_wrench:
-* __DA skills:__ `Python`, `SQL`, `Tablea`, `Git`, `Redash`, `ClickHouse`, `Airflow`, `Jupyter Notebook`, `A/B tests`, `Math statistics`
+* __DA skills:__ `Python`, `SQL`, `Tableau`, `Git`, `Redash`, `ClickHouse`, `Airflow`, `Jupyter Notebook`, `A/B tests`, `Math statistics`
 * __Technologies:__ `Pandas`, `Numpy`, `Scipy`, `Matplotlib`, `Seaborn`
 ___
 ### My project
 | Project name | Description | Technologies |
 |-----------|---------|-------------|
-| Проект 1   | Описание 1      | Технологии 1      |
-| Проект 2     | Описание 2      | Технологии 2 |
-| Проект 3      | Описание 3      | Технологии 3      |
+| Project 1   | __This project include tasks:__ <br> • Run an A/B test and decide if the new payment method on the website should be made available to all users.<br> • Write a function that automatically loads data from an additional file and recalculates the metrics.<br> • Write an optimal SQL query that provides information on the number of very diligent students and, in the one query, outputs metrics by user groups: ARPU, ARPAU and CR.    | EDA, A/B test: chi2 (chi-squared), t-test, Python: Jupyter Notebook, SQL: ClickHouse  |
+| Project 2     | Описание 2      | Технологии 2 |
+| Project 3      | Описание 3      | Технологии 3      |
+
+
+
+
+
+
+
