@@ -1,4 +1,4 @@
-# Hello! I'm Kseniia Mironova :wave: align="center"
+# Hello! I'm Kseniia Mironova :wave:
 ### I'm Data analytics | Business Analyst
 _I have extensive experience in business analisys and fashion brand management. I work a lot with data, it helps me make the rigt business decisions and inspires me to new areas of growth. For this reason, I started to study data science tools in depth and it inspires me a lot._
 
