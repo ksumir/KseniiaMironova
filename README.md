@@ -18,13 +18,11 @@ ___
 ### My project
 | Project name | Description | Technologies |
 |-----------|---------|-------------|
-| Project 1   | __This project include tasks:__ <br> • Run an A/B test and decide if the new payment method on the website should be made available to all users.<br> • Write a function that automatically loads data from an additional file and recalculates the metrics.<br> • Write an optimal SQL query that provides information on the number of very diligent students and, in the one query, outputs metrics by user groups: ARPU, ARPAU and CR.    | EDA, A/B test: chi2 (chi-squared), t-test, Python: Jupyter Notebook, SQL: ClickHouse  |
-| Project 2     | Описание 2      | Технологии 2 |
-| Project 3      | Описание 3      | Технологии 3      |
+| Project 1   | __This project include tasks:__ <br> • Run an A/B test and decide if the new payment method on the website should be made available to all users.<br> • Write a function that automatically loads data from an additional file and recalculates the metrics.<br> • Write an optimal SQL query that provides information on the number of very diligent students and, in the one query, outputs metrics by user groups: ARPU, ARPAU and CR.    | EDA, A/B test: chi2 (chi-squared), t-test, Python: Jupyter Notebook (pandas, seaborn, matplotlib), SQL: ClickHouse  |
+| Project 2 - e-commerce     | User behavior analysis and product delivery performance, cohort analysis of users, RFM analysis.      | EDA, Python: Jupyter Notebook (pandas, requests, json, urllib.parse, seaborn, matplotlib, plotly, numpy, scipy.stats, pingouin)|
+| Project 3 - A/B test      |  Run an A/B test to compare two groups of users—those using the new recommendation system and those using the old app version. The comparison will be based on three things: average order value, average number of orders, and total revenue.     |  EDA, A/B test: t-test, Python: Jupyter Notebook (pandas, seaborn, matplotlib, scipy.stats, numpy)      |
 
 
-
-
-
+Провести A/B test и сравнить показатели групп пользователей с новой системой рекомендаций и со старой версией приложения. Рассмотрено на 3 показателях: средний чек, среднее количество заказов и выручка.
 
 
