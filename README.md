@@ -23,6 +23,3 @@ ___
 | Project 3 - A/B test      |  Run an A/B test to compare two groups of users—those using the new recommendation system and those using the old app version. The comparison will be based on three things: average order value, average number of orders, and total revenue.     |  `EDA`, `A/B test`: t-test, `Python`: Jupyter Notebook (pandas, seaborn, matplotlib, scipy.stats, numpy)      |
 
 
-Провести A/B test и сравнить показатели групп пользователей с новой системой рекомендаций и со старой версией приложения. Рассмотрено на 3 показателях: средний чек, среднее количество заказов и выручка.
-
-
