@@ -1,6 +1,7 @@
 # Hello! I'm Kseniia Mironova :wave:
 ### I'm Data analytics
 _smth about me_
+![рисунок](https://img.freepik.com/free-vector/programmer-working-with-sql_52683-22997.jpg?t=st=1723142744~exp=1723146344~hmac=e17bbf0d79b09cdfbd0ab003c65c9c43e9958cae42e12be863dfcee6a72f1dd8&w=1060)
 
 My contacts:
 *	:calling: _[telegram]()_
