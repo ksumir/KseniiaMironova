@@ -16,9 +16,9 @@ ___
 * __Technologies:__ `Pandas`, `Numpy`, `Scipy`, `Matplotlib`, `Seaborn`
 ___
 ### My project
-| Project | Description | Technologies |
+| Project | Description | Tech stack |
 |-----------|---------|-------------|
-| Project 1 - e-commerce  | __This project include tasks:__ <br> • Run an A/B test and decide if the new payment method on the website should be made available to all users.<br> • Write a function that automatically loads data from an additional file and recalculates the metrics.<br> • Write an optimal SQL query that provides information on the number of very diligent students and, in the one query, outputs metrics by user groups: ARPU, ARPAU and CR.    | `EDA`, `A/B test`: chi2 (chi-squared), t-test, `Python`: Jupyter Notebook (pandas, requests, json, urllib.parse, seaborn, matplotlib, plotly, numpy, scipy.stats, pingouin), `SQL`: ClickHouse  |
+| [Project 1 - e-commerce](https://github.com/ksumir/Project-1-e-commerce)  | __This project include tasks:__ <br> • Run an A/B test and decide if the new payment method on the website should be made available to all users.<br> • Write a function that automatically loads data from an additional file and recalculates the metrics.<br> • Write an optimal SQL query that provides information on the number of very diligent students and, in the one query, outputs metrics by user groups: ARPU, ARPAU and CR.    | `EDA`, `A/B test`: chi2 (chi-squared), t-test, `Python`: Jupyter Notebook (pandas, requests, json, urllib.parse, seaborn, matplotlib, plotly, numpy, scipy.stats, pingouin), `SQL`: ClickHouse  |
 | Project 2 - e-commerce     | User behavior analysis and product delivery performance, cohort analysis of users, RFM analysis.      | `EDA`, `Python`: Jupyter Notebook (pandas, seaborn, matplotlib, plotly, numpy, scipy.stats)|
 | Project 3 - delivery      |  Run an A/B test to compare two groups of users—those using the new recommendation system and those using the old app version. The comparison will be based on three things: average order value, average number of orders, and total revenue.     |  `EDA`, `A/B test`: t-test, `Python`: Jupyter Notebook (pandas, seaborn, matplotlib, scipy.stats, numpy)      |
 
