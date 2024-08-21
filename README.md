@@ -8,7 +8,7 @@ _I have extensive experience in business analysis and fashion brand management. 
 
 ### My contacts:
 *	:calling: _[telegram](https://t.me/ksumiro)_
-*	:computer: _[LinkedIn]()_
+*	:computer: _[LinkedIn](https://www.linkedin.com/in/kseniiamironova/)_
 *	:envelope_with_arrow: _[kvmironova846@gmail.com](https://mail.google.com/mail)_
 ___
 ### Skills :hammer_and_wrench:
